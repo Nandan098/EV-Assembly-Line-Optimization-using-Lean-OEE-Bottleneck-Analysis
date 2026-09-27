@@ -1,0 +1,7 @@
+Operation,Characteristic,Specification / target,Measurement / control,Frequency,Reaction plan,Owner
+Wheel fitment,Wheel alignment,Within fixture standard / visual gauge,Go/no-go fixture + first-piece check,Start-up + hourly,"Stop, contain, re-align, verify first good",Manufacturing Eng.
+Wheel fastener torque,Torque,Within approved torque window,Torque-controlled tool + trace capture,100% / audit,"Stop line, segregate unit, recalibrate tool",Quality + ME
+Brake caliper install,Position,Fixture locator fully seated,Fixture sensor / visual confirmation,100%,Reposition and confirm,Operator + Quality
+Fastener presence,Presence,No missing / loose fastener,Kitting + presence check,100%,Contain unit; complete missing fastener,Operator
+Tooling condition,Tool / fixture,Quick-change standard and calibrated,Daily condition check,Daily,Tag out tool; replace / recalibrate,Maintenance
+Station cycle time,Cycle time,<= 100.8 sec reference takt,Manual time study / digital timestamp,Hourly sample,Escalate > takt for 2 consecutive checks,IE / PM

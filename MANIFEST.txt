@@ -1,0 +1,13 @@
+Files
+- data/Ather_EV_Assembly_Realistic_Synthetic_Dataset.xlsx
+- data/Ather_EV_Assembly_Optimization_Project.xlsx
+- data/Production_Data.csv
+- analysis/Ather_EV_Assembly_Analysis.py
+- analysis/metrics.json
+- analysis/S05_Control_Plan.csv
+- dashboard/PowerBI_Dashboard_Build_Spec.md
+- report/Ather_EV_Assembly_Optimization_Report.docx
+- report/Ather_EV_Assembly_Optimization_Report.pdf
+- presentation/Ather_EV_Assembly_Optimization_Presentation.pptx
+- charts/*.png
+- README.md
